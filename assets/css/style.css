@@ -101,7 +101,7 @@
  }
 
  .core-values {
-     background: linear-gradient(0deg, rgba(223, 184, 65, 0.9), rgba(223, 184, 65, 0.9)), url(assets/images/geometric-background-with-copy-space.jpg) no-repeat center center / cover;
+     background: linear-gradient(0deg, rgba(223, 184, 65, 0.9), rgba(223, 184, 65, 0.9)), url('assets/images/geometric-background-with-copy-space.jpg') no-repeat center center / cover;
  }
 
  .core-values .container .grid-3 {
@@ -113,7 +113,7 @@
  }
 
  .profile-img {
-     background: url(assets/images/bg-random-d1.png) no-repeat center center / contain;
+     background: url('assets/images/bg-random-d1.png') no-repeat center center / contain;
  }
 
  .portfolio {
