@@ -117,13 +117,13 @@
  }
 
  .portfolio {
-     background: linear-gradient(0deg, rgba(0, 32, 69, 0.9), rgba(0, 32, 69, 0.9)), url("../images/wepik-photo-mode-2022117-143427.jpg") no-repeat center center / cover;
+     background: linear-gradient(0deg, rgba(0, 32, 69, 0.9), rgba(0, 32, 69, 0.9)), url('../images/wepik-photo-mode-2022117-143427.jpg') no-repeat center center / cover;
      min-height: 400px;
      color: #fff;
  }
 
  .col-wintint {
-     background: url(assets/images/blackoutwindowstint.png) no-repeat top center / cover;
+     background: url('../images/blackoutwindowstint.png') no-repeat top center / cover;
      min-height: 400px;
      border-radius: 10px;
  }
