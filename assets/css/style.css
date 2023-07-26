@@ -112,6 +112,11 @@
      margin-top: -40%;
  }
 
+ .services .grid img {
+    width: 100%;
+    border-radius: 15px !important;
+}
+
  .profile-img {
      background: url('../images/bg-random-d1.png') no-repeat center center / contain;
  }
@@ -287,9 +292,11 @@
     }
 
     .services .grid img {
-        width: 95%;
+        width: 100%;
         border-radius: 15px !important;
     }
+
+
 
     .services > div > div:nth-child(1) {
         display: flex !important;
