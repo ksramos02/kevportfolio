@@ -113,7 +113,7 @@
  }
 
  .profile-img {
-     background: url(/assets/images/bg-random-d1.png) no-repeat center center / contain;
+     background: url(assets/images/bg-random-d1.png) no-repeat center center / contain;
  }
 
  .portfolio {
@@ -123,7 +123,7 @@
  }
 
  .col-wintint {
-     background: url(/assets/images/blackoutwindowstint.png) no-repeat top center / cover;
+     background: url(assets/images/blackoutwindowstint.png) no-repeat top center / cover;
      min-height: 400px;
      border-radius: 10px;
  }
@@ -135,7 +135,7 @@
  }
 
  .col-bizplan {
-     background: url(/assets/images/bizplanpros.png) no-repeat top center / cover;
+     background: url(assets/images/bizplanpros.png) no-repeat top center / cover;
      min-height: 400px;
      border-radius: 10px;
  }
@@ -147,7 +147,7 @@
  }
 
  .col-sprach {
-     background: url(/assets/images/sprachfox-v2.png) no-repeat top center / cover;
+     background: url(assets/images/sprachfox-v2.png) no-repeat top center / cover;
      min-height: 400px;
      border-radius: 10px;
  }
@@ -159,7 +159,7 @@
  }
 
  .col-light {
-     background: url(/assets/images/lightningmedia.png) no-repeat top center / cover;
+     background: url(assets/images/lightningmedia.png) no-repeat top center / cover;
      min-height: 400px;
      border-radius: 10px;
  }
@@ -171,7 +171,7 @@
  }
 
  .col-flip {
-     background: url(/assets/images/flipsidecap.png) no-repeat top center / cover;
+     background: url(assets/images/flipsidecap.png) no-repeat top center / cover;
      min-height: 400px;
      border-radius: 10px;
  }
