@@ -101,7 +101,7 @@
  }
 
  .core-values {
-     background: linear-gradient(0deg, rgba(223, 184, 65, 0.9), rgba(223, 184, 65, 0.9)), url(/assets/images/geometric-background-with-copy-space.jpg) no-repeat center center / cover;
+     background: linear-gradient(0deg, rgba(223, 184, 65, 0.9), rgba(223, 184, 65, 0.9)), url(assets/images/geometric-background-with-copy-space.jpg) no-repeat center center / cover;
  }
 
  .core-values .container .grid-3 {
@@ -117,7 +117,7 @@
  }
 
  .portfolio {
-     background: linear-gradient(0deg, rgba(0, 32, 69, 0.9), rgba(0, 32, 69, 0.9)), url(/assets/images/wepik-photo-mode-2022117-143427.jpg) no-repeat center center / cover;
+     background: linear-gradient(0deg, rgba(0, 32, 69, 0.9), rgba(0, 32, 69, 0.9)), url(assets/images/wepik-photo-mode-2022117-143427.jpg) no-repeat center center / cover;
      min-height: 400px;
      color: #fff;
  }
