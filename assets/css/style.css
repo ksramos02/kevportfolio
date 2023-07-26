@@ -287,8 +287,8 @@
     }
 
     .services .grid img {
-        width: 85%;
-        border-radius: 15px;
+        width: 95%;
+        border-radius: 15px !important;
     }
 
     .services > div > div:nth-child(1) {
