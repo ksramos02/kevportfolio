@@ -263,10 +263,22 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
     border-radius: 10px;
 }
 
+.col-recent:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
+}
+
 .col-2 {
     background: url('../images/bizplanpros.png') no-repeat top center / cover;
     min-height: 400px;
     border-radius: 10px;
+}
+
+.col-2:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
 }
 
 .col-3 {
@@ -275,10 +287,22 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
     border-radius: 10px;
 }
 
+.col-3:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
+}
+
 .col-4 {
     background: url('../images/miraclestonegroup.png') no-repeat top center / cover;
     min-height: 400px;
     border-radius: 10px;
+}
+
+.col-4:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
 }
 
 .col-5 {
@@ -287,10 +311,22 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
     border-radius: 10px;
 }
 
+.col-5:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
+}
+
 .col-6 {
     background: url('../images/webtelmedia.png') no-repeat top center / cover;
     min-height: 400px;
     border-radius: 10px;
+}
+
+.col-6:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
 }
 
 .col-7 {
@@ -299,10 +335,22 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
     border-radius: 10px;
 }
 
+.col-7:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
+}
+
 .col-8 {
     background: url('../images/sprachfox-v2.png') no-repeat top center / cover;
     min-height: 400px;
     border-radius: 10px;
+}
+
+.col-8:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
 }
 
 .col-9 {
@@ -311,10 +359,22 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
     border-radius: 10px;
 }
 
+.col-9:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
+}
+
 .col-10 {
     background: url('../images/twigs.png') no-repeat top center / cover;
     min-height: 400px;
     border-radius: 10px;
+}
+
+.col-10:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
 }
 
 .col-11 {
@@ -323,10 +383,22 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
     border-radius: 10px;
 }
 
+.col-11:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
+}
+
 .col-12 {
     background: url('../images/golfpark.png') no-repeat top center / cover;
     min-height: 400px;
     border-radius: 10px;
+}
+
+.col-12:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
 }
 
 .col-13 {
@@ -335,10 +407,22 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
     border-radius: 10px;
 }
 
+.col-13:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
+}
+
 .col-14 {
     background: url('../images/lightningmedia.png') no-repeat top center / cover;
     min-height: 400px;
     border-radius: 10px;
+}
+
+.col-14:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
 }
 
 .col-15 {
@@ -347,16 +431,34 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
     border-radius: 10px;
 }
 
+.col-15:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
+}
+
 .col-16 {
     background: url('../images/healthyheartdocs.png') no-repeat top center / cover;
     min-height: 400px;
     border-radius: 10px;
 }
 
+.col-16:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
+}
+
 .col-17 {
     background: url('../images/americanhistorydaily.png') no-repeat top center / cover;
     min-height: 400px;
     border-radius: 10px;
+}
+
+.col-17:hover {
+    background-position: center bottom;
+    -webkit-transition: ease-in-out 4s !important;
+    transition: ease-in-out 4s !important;
 }
 
 /* TABLET RESPONSIVE  */
@@ -382,6 +484,10 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
 /* Mobile responsive  */
 
 @media only screen and (max-width: 460px) {
+    .navigation .flex ul {
+        margin-top: 10px;
+    }
+
     .navbar {
         display: grid !important;
         grid-template-columns: repeat(1, 1fr);
