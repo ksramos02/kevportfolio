@@ -239,6 +239,24 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
 
 /* Projects CSS */
 
+.projects {
+    background: linear-gradient(0deg, rgba(0, 32, 69, 0.9), rgba(0, 32, 69, 0.9)), url('../images/wepik-photo-mode-2022117-143427.jpg') no-repeat center center / cover;
+    min-height: 400px;
+    color: #fff;
+}
+
+.projects .grid {
+    padding: 25px 0 0 0;
+}
+
+.projects .grid-3{
+    padding: 25px 0 0 0;
+}
+
+.projects .btn_div {
+    margin-top: 45px !important;
+}
+
 .col-recent {
     background: url('../images/blackoutwindowstint.png') no-repeat top center / cover;
     min-height: 400px;
