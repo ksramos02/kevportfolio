@@ -237,6 +237,29 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
     transform: scale(1.1) !important;
 }
 
+/* .footer-sect {
+    position: relative;
+} */
+
+.floating_icon {
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    color: #fff;
+    background-attachment: fixed;
+    z-index: 999;
+}
+
+.floating_icon a {
+    background: var(--secondary-color);
+    border-radius: 4px;
+    padding: 10px 12px;
+}
+
+.floating_icon a:hover {
+    background: var(--primary-color);
+}
+
 /* Projects CSS */
 
 .projects {
@@ -248,6 +271,8 @@ body>section.py-5.core-values>div>div>div.center.text-center.p-3>a:hover {
 .projects .grid {
     padding: 25px 0 0 0;
 }
+
+
 
 .projects .grid-3{
     padding: 25px 0 0 0;
